@@ -1,0 +1,1 @@
+docker build -t ruanshilin/big-market-front-app:1.0 .
