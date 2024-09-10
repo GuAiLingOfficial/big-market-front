@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    output: "standalone",
+    target: 'server',
     env: {
-        target: 'server',
-        output: "standalone",
         API_HOST_URL: process.env.API_HOST_URL
     }
 };
