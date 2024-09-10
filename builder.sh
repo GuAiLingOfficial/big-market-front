@@ -1,1 +1,1 @@
-docker build -t ruanshilin/big-market-front-app:1.0 .
+docker build -t ruanshilin/big-market-front-app:3.0 .
